@@ -1,5 +1,12 @@
 {
+  "Beyond All Reason": "https://www.beyondallreason.info/news/rss.xml",
+  "Crossout": "https://crossout.net/en/news/rss/",
+  "Destiny 2": "https://www.bungie.net/en/Rss/News",
+  "Fall Guys": "https://fallguys.com/en-US/news/rss",
+  "Lethal Company": "https://store.steampowered.com/feeds/news/app/1966720/",
+  "Once Human": "https://store.steampowered.com/feeds/news/app/2139460/",
+  "The Planet Crafter": "https://store.steampowered.com/feeds/news/app/1284190/"
+  "Risk of Rain 2": "https://store.steampowered.com/feeds/news/app/632360/",
   "Smite 2": "https://www.smitegame.com/rss",
-  "Warframe": "https://www.warframe.com/news?format=rss",
-  "Fall Guys": "https://fallguys.com/en-US/news/rss"
+  "Warframe": "https://www.warframe.com/news?format=rss"
 }
